@@ -1,6 +1,6 @@
 const profileData = {
    profile: {
-      image: "https://avatars.githubusercontent.com/u/113292029?s=400&u=e48bc51e5e7e82942c5c109e95419cc1c781cc42&v=4",
+      image: "https://avatars.githubusercontent.com/u/147752720?s=400&u=d112764d97304ff15e16584a5b5c1927f7d2ee15&v=4",
       name: "Anirudh Chakraborty",
       title: "UI/UX Designer | App Developer"
    },
