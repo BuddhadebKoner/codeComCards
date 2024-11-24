@@ -42,13 +42,6 @@ const App = () => {
             ))}
           </div>
         </div>
-
-        {/* Contact Section */}
-        <div>
-          <h3 className="text-xl font-semibold text-cyan-300 mb-2 neon-text">Contact</h3>
-          <p className="text-sm text-gray-400">Email: {contact.email}</p>
-          <p className="text-sm text-gray-400">Phone: {contact.phone}</p>
-        </div>
       </div>
     </div>
   );
